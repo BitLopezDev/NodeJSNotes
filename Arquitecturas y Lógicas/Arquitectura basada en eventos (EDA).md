@@ -4,6 +4,10 @@ Imagina que estás en una concurrida cafetería. En lugar de esperar en la fila 
 
 En este escenario, el ticket es un **evento** que te notifica cuando tu café está listo. El barista es el **productor** del evento, y tú eres el **consumidor**. Este simple sistema ilustra la esencia de la **arquitectura basada en eventos (EDA)**.
 
+<!--nota-->
+Cuando llega tu turno, un productor de eventos te entrega un evento con un número. Te sientas y esperas a que tu número sea llamado. Cuando llega tu turno, te acercas al mostrador y recoges tu café.
+<!--/nota-->
+
 **¿Qué es EDA?**
 
 EDA es un estilo arquitectónico que organiza el software en torno a eventos. En lugar de depender de llamadas a funciones o flujos de control rígidos, los componentes de software se comunican enviando y recibiendo eventos.
@@ -20,7 +24,7 @@ Los eventos se **publican** en un **canal de eventos**. Los componentes que est�
 - **Escalabilidad:** EDA es fácil de escalar porque los eventos se pueden distribuir a muchos suscriptores de forma asincrónica.
 - **Resiliencia:** Los eventos se pueden almacenar y reenviar en caso de errores, lo que hace que el sistema sea más resistente a fallos.
 
-```JS
+```TS
 const EventEmitter = require('events');
 
 const emitter = new EventEmitter();

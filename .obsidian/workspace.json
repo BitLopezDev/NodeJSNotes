@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitecturas y Lógicas/Arquitectura basada en eventos (EDA).md",
+                "file": "OS FS ETC/Sistema Operativo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitecturas y Lógicas/Arquitectura basada en eventos (EDA).md",
+                "file": "OS FS ETC/Sistema Operativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitecturas y Lógicas/Arquitectura basada en eventos (EDA).md",
+                "file": "OS FS ETC/Sistema Operativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitecturas y Lógicas/Arquitectura basada en eventos (EDA).md"
+                "file": "OS FS ETC/Sistema Operativo.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "93203d60a8b15b67",
   "lastOpenFiles": [
+    "OS FS ETC/Index.md",
+    "OS FS ETC/Sistema Operativo.md",
+    "Arquitecturas y Lógicas/Streams.md",
+    "OS FS ETC",
+    "Arquitecturas y Lógicas/EDA && STREAMS al tiempo.md",
+    "Arquitecturas y Lógicas/Arquitectura basada en eventos (EDA).md",
+    "Arquitecturas y Lógicas/INDEX Arquitecturas y Lógicas.md",
     "README.md",
     "LICENSE",
-    "Arquitecturas y Lógicas/Streams.md",
-    "Arquitecturas y Lógicas/Arquitectura basada en eventos (EDA).md",
-    "Arquitecturas y Lógicas/Arquitecturas y Lógicas.md",
     "Arquitecturas y Lógicas"
   ]
 }
