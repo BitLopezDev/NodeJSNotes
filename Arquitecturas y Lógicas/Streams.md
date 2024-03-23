@@ -10,8 +10,8 @@ Un stream es una secuencia de datos que se puede leer o escribir de forma **secu
 
 Existen dos tipos principales de streams:
 
-- **Readable Streams:** Permiten leer datos de forma asíncrona y fragmentada. Son ideales para leer archivos grandes, descargar archivos de internet, procesar datos en tiempo real y comunicarse con servidores.
-- **Writable Streams:** Permiten escribir datos por partes en un destino, como un archivo o un dispositivo de red. Se utilizan para crear archivos, enviar datos a través de la red y otras tareas.
+- [[Readable Streams]]:** Permiten leer datos de forma asíncrona y fragmentada. Son ideales para leer archivos grandes, descargar archivos de internet, procesar datos en tiempo real y comunicarse con servidores.
+- [[Writable Streams]]:** Permiten escribir datos por partes en un destino, como un archivo o un dispositivo de red. Se utilizan para crear archivos, enviar datos a través de la red y otras tareas.
 
 **Lógica de métodos de Streams**
 
@@ -45,7 +45,7 @@ readableStream.on('end', () => {
 ```
 
 
-En este ejemplo, la función `fs.createReadStream` crea un Readable Stream que se abre en el archivo `archivo.txt`. El evento `data` se escucha para recibir cada fragmento de datos del archivo. El evento `end` se escucha para saber cuándo se ha terminado de leer el archivo.
+En este ejemplo, la función `fs.createReadStream` crea un [[Readable Stream]] que se abre en el archivo `archivo.txt`. El evento `data` se escucha para recibir cada fragmento de datos del archivo. El evento `end` se escucha para saber cuándo se ha terminado de leer el archivo.
 
 **Recursos adicionales:**
 

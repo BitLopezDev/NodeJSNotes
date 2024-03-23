@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e0698d055aa04d55",
+        "id": "94b3471d3402f436",
         "type": "tabs",
         "children": [
           {
-            "id": "93203d60a8b15b67",
+            "id": "4c3cbe93fb4a26a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS FS ETC/Sistema Operativo.md",
+                "file": "Consola/Dev & Debug.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1da0864f7e84f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitecturas y Lógicas/Streams/Writable Streams.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS FS ETC/Sistema Operativo.md",
+                "file": "Arquitecturas y Lógicas/Streams/Writable Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS FS ETC/Sistema Operativo.md",
+                "file": "Arquitecturas y Lógicas/Streams/Writable Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS FS ETC/Sistema Operativo.md"
+                "file": "Arquitecturas y Lógicas/Streams/Writable Streams.md"
               }
             }
           }
@@ -146,14 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93203d60a8b15b67",
+  "active": "a1da0864f7e84f7b",
   "lastOpenFiles": [
-    "OS FS ETC/Index.md",
-    "OS FS ETC/Sistema Operativo.md",
+    "Consola/Dev & Debug.md",
     "Arquitecturas y Lógicas/Streams.md",
-    "OS FS ETC",
-    "Arquitecturas y Lógicas/EDA && STREAMS al tiempo.md",
+    "Arquitecturas y Lógicas/Streams/Writable Streams.md",
+    "Arquitecturas y Lógicas/Streams/Readable Streams.md",
+    "Arquitecturas y Lógicas/Streams",
+    "Untitled",
+    "OS FS ETC/Estructura de los directorios.md",
+    "OS FS ETC/Untitled.md",
     "Arquitecturas y Lógicas/Arquitectura basada en eventos (EDA).md",
+    "Arquitecturas y Lógicas/EDA && STREAMS al tiempo.md",
+    "Consola",
+    "OS FS ETC/FS y cantidad de líneas.md",
+    "OS FS ETC/Sistema Operativo.md",
+    "OS FS ETC/Index.md",
+    "OS FS ETC",
     "Arquitecturas y Lógicas/INDEX Arquitecturas y Lógicas.md",
     "README.md",
     "LICENSE",
