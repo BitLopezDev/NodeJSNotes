@@ -1,1 +1,1 @@
-[[Streams]] [[Arquitectura basada en eventos (EDA)]]
+[[Streams idx]] [[Arquitectura basada en eventos (EDA)]] [[EDA && STREAMS al tiempo]]
