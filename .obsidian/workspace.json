@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitecturas y Lógicas/Streams/Writable Streams.md",
+                "file": "Consola/Dev & Debug.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitecturas y Lógicas/Streams/Writable Streams.md",
+                "file": "Consola/Dev & Debug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitecturas y Lógicas/Streams/Writable Streams.md",
+                "file": "Consola/Dev & Debug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitecturas y Lógicas/Streams/Writable Streams.md"
+                "file": "Consola/Dev & Debug.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "a1da0864f7e84f7b",
   "lastOpenFiles": [
-    "Consola/Dev & Debug.md",
     "Arquitecturas y Lógicas/Streams.md",
     "Arquitecturas y Lógicas/Streams/Writable Streams.md",
+    "Consola/Dev & Debug.md",
     "Arquitecturas y Lógicas/Streams/Readable Streams.md",
     "Arquitecturas y Lógicas/Streams",
     "Untitled",

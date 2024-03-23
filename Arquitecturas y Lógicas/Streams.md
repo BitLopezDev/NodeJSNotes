@@ -1,4 +1,4 @@
-**Introducción**
+n **Introducción**
 
 Los streams son una herramienta fundamental en JavaScript para manejar flujos de datos de forma eficiente y asíncrona. Permiten leer y escribir datos en pedazos, lo que mejora el rendimiento y la escalabilidad en aplicaciones que trabajan con grandes cantidades de información.
 

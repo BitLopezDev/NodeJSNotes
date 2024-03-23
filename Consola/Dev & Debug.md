@@ -3,16 +3,17 @@ const { setInterval } = require("timers/promises");
 
 const fs = require("fs"); // Importa el módulo fs
 
+//const util = require("util");
+
 const out = fs.createWriteStream("./logs/out.log", { flags: "a" });
 
 const err = fs.createWriteStream("./logs/err.log", { flags: "a" });
 
-//Escribe [[Writable Streams]]
   
 
-  out.write(new Date() + "\n");
+out.write(new Date() + "\n");
 
-  err.write(new Error("Oops 2") + "\n");
+err.write(new Error("Oops 2") + "\n");
 
   
 
@@ -25,4 +26,10 @@ process.on("exit", () => {
   err.end();
 
 });
+
+/*
+
+const msgDepuracion = util.debuglog("Pautal", { level: 2 });
+
+msgDepuracion("Esto es un mensaje de depuración");*/
 ```

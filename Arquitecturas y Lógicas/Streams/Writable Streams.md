@@ -12,8 +12,6 @@ Para usar un Writable Stream, primero debes crearlo. Puedes hacerlo usando el co
 
 **Ejemplo:**
 
-JavaScript
-
 ```JS
 const fs = require("fs");
 
