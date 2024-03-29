@@ -1,0 +1,32 @@
+```json
+{
+
+"parserOptions": {
+
+    "ecmaVersion": 2018
+
+},
+
+    "extends": ["eslint:recommended", "prettier"],
+
+    "env": {
+
+    "es6": true,
+
+    "node": true,
+
+    "mocha": true
+
+    },
+
+    "rules": {
+
+    "no-console": "warn"
+
+  
+
+    }
+
+}
+```
+
